@@ -137,8 +137,6 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 0}
-  - {fileID: 2257151229751631477, guid: 6843754d75adab74c84ba5437bf3e7ec, type: 2}
-  - {fileID: -4696981085527153137, guid: 6eec5605683a2404c852b6976d895761, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -729,11 +727,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MRTKThing
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\Admin\Documents\GitHub\MR-Project\MR-Project\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 000983e89208da01
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: MR-Project
